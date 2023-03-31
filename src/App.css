@@ -12,3 +12,7 @@ body {
 }
 
 /* Write your code here. */
+.list-elements {
+  margin-bottom: 15px;
+  padding: 10px;
+}
